@@ -1,0 +1,53 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.container-campain{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 60px;;
+ 
+}
+.button{
+  padding: 9px 12px;
+  border-radius: 5px;
+  font-weight: 400;
+  letter-spacing: 1.15px;
+  background-color: #4b70e2;
+  color: #f9f9f9;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin: 0.5rem 0;
+}
+
+.nav-header{
+    display: flex;
+    flex:2;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.forms{
+    display: flex;
+    flex-direction: column;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+}
+.search{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.dropdown{
+    
+}
