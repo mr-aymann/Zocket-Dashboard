@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Zocket DashBoard
 
 
 >> To run the frontend:
